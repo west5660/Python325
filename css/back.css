@@ -1,0 +1,14 @@
+body{
+    background: url("../img/hw18.jpg");
+    height: 100vh;
+    background-size: cover;
+
+}
+p,h1,h2{color: white}
+p{
+  background: #424141;
+  height: auto;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
