@@ -1,2 +1,2 @@
-# Python325
+# Python325 hw1
 Обучение 
